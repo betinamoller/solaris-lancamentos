@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "Se usar este software, cite-o como indicado abaixo."
+type: software
+title: "SOLARIS: ferramenta de apoio à decisão de estoque para lançamentos de produtos"
+abstract: >-
+  Ferramenta de apoio à decisão para o planejamento de produção e estoque de
+  lançamentos de produtos, desenvolvida no Projeto de Graduação em Engenharia
+  de Produção da PUC-Rio com apoio da L'Oréal Brasil. Simula centenas de
+  futuros de demanda (Monte Carlo) com os erros reais de previsão de
+  lançamentos anteriores, compara as políticas de estoque P2, P3 e P4 sob a
+  janela de reação da operação (horizonte congelado, lead time de insumo e de
+  produção), recomenda uma política e gera um plano de ação mês a mês para o
+  S&OE. Desenvolvida em Python e Streamlit, roda no Google Colab.
+authors:
+  - family-names: Moller
+    given-names: Betina
+    affiliation: "Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio)"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: Jallad
+    given-names: Julia
+    affiliation: "Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio)"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+version: "1.0.0"
+date-released: "2026-11-24"
+license: MIT
+repository-code: "https://github.com/betinamoller/solaris-lancamentos"
+keywords:
+  - lançamento de produtos
+  - gestão de estoques
+  - simulação de Monte Carlo
+  - S&OE
+  - planejamento da produção
+  - política de estoque
+  - Streamlit
+  - Python
+  - new product launch
+  - inventory management
+# Depois da primeira release no Zenodo, descomente a linha abaixo com o DOI da versão:
+# doi: "10.5281/zenodo.XXXXXXX"
