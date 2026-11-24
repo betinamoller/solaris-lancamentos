@@ -1,8 +1,8 @@
 # SOLARIS · Estoque de lançamentos
 
-<!-- Depois da primeira release, troque XXXXXXX pelo número do DOI do Zenodo e SEU_USUARIO pelo seu usuário do GitHub -->
+<!-- Depois da primeira release, troque XXXXXXX pelo número do DOI do Zenodo -->
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
-[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SEU_USUARIO/solaris-lancamentos/blob/main/SOLARIS_Streamlit_Colab.ipynb)
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/betinamoller/solaris-lancamentos/blob/main/SOLARIS_Streamlit_Colab.ipynb)
 
 O SOLARIS é uma ferramenta de apoio à decisão para planejar a produção e o estoque de **lançamentos de produtos**. Ela foi desenvolvida no Projeto de Graduação em Engenharia de Produção da PUC-Rio, com apoio da L'Oréal Brasil.
 
